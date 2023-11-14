@@ -3,7 +3,7 @@
 Hello World!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikisi
-)](https://github.com/anuraghazra/github-readme-stats)
+&hide=html,glsl,hlsl,angelscript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
