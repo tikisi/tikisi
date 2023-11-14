@@ -3,7 +3,7 @@
 Hello World!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikisi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikisi&hide=html,glsl,hlsl,angelscript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-i3do.vercel.app/api/top-langs/?username=tikisi&hide=html,glsl,hlsl,angelscript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
