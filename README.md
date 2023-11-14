@@ -2,6 +2,10 @@
 
 Hello World!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={tikisi}
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **tikisi/tikisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
