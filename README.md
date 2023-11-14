@@ -2,7 +2,7 @@
 
 Hello World!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={tikisi}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikisi
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
